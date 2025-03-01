@@ -1,6 +1,6 @@
 # My Portfolio Site
 
-Welcome to My Portfolio Github! Feel free to use this template if you'd like. 
+Welcome to My Portfolio Github! Feel free to use this template if you'd like. Below are previews of the template:
 
 ## About Me
 
