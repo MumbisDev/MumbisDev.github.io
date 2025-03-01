@@ -14,4 +14,8 @@ Welcome to My Portfolio Github! Feel free to use this template if you'd like.
 
 ![Screenshot 2025-03-01 151615](https://github.com/user-attachments/assets/cf1f1296-90cb-4d17-a4a9-1f13ac3715c5)
 
+## Contact
+
+![Screenshot 2025-03-01 151743](https://github.com/user-attachments/assets/78de85db-0108-417b-8c84-b3ff95e67e0f)
+
 
